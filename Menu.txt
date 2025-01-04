@@ -1,0 +1,145 @@
+Novo Jogo
+Continuar
+Menu Principal
+Sair
+Ajustes
+Conquistas
+Créditos
+Voltar
+Carregar
+Idioma - Magnusnoos
+Carregando...
+Gráficos
+Som
+Teclado e mouse
+Controle
+Resolução
+Modo de janela
+Efeitos gráficos
+Efeitos de cor
+Sombras suaves
+Desfoque
+Clareza
+Anti-aliasing
+Sombras
+Qualidade de Exibição do Mundo
+Programação
+Animação
+Efeitos Sonoros
+Música
+Partículas
+Texturas
+Modelos 3D (98%)
+Script
+Redefinir
+Avançar
+Voltar
+Esquerda
+Direita
+Interação
+Sensibilidade do Mouse
+Sair do jogo?
+Sim
+Não
+Voltar ao Menu Principal
+Curvas Suaves
+Ajustes do Jogo
+Estilo de Sombra
+Roupas
+Interface
+Modelos 3D (2%)
+Vídeo do Jogo
+Pausar
+Menu
+Parabéns! Você concluiu o jogo!
+Seu tempo:
+Legendas
+Brilho
+Sincronização Vertical
+Jogo Salvo
+Personagens
+Personagens - Mitas
+Personagens - Cartuchos
+Cartuchos
+Mitas
+Recomece o Jogo
+Tem certeza de que deseja excluir completamente todo o seu progresso e começar do zero?
+Compilando shaders, tempo de espera estimado: 2 horas.
+Compilação de 2 horas?! Isso é mentira! Pularemos a fila para você!
+Criando traçado de sombra realista — estimado em 10 minutos.
+Brincadeira, não usamos essas coisas extravagantes aqui.
+Hum...
+Ah, estamos prontos!
+Balançar ao andar
+Mostrar Dicas
+Voz do Jogador
+Discord
+Perfil de personagem adicionado
+Ângulo da Câmera
+Voz
+Desligado
+Mão estendida para a porta
+Animação
+Habilitar voz do jogador
+Mita
+Mita de Cabelo Curto
+Mita Legal
+Mita de Chapéu
+Mita Pequenina
+Mita Dorminhoca
+Mita 2D
+Mila
+Mita Assustadora
+Mita Núcleo
+Mita Fantasma
+Mita Chibi
+Mita Manequin
+
+
+
+// Name load location
+Estou dentro do jogo?
+Finalmente juntos
+As Coisas Ficam Estranhas
+O Porão
+Além do Mundo
+O Loop
+Mini Mita
+Manequins e Quebra-Cabeças Esquecidos
+Ela só quer dormir
+Romances
+Lendo livros, Eliminando Falhas
+Corra e se esconda!
+Versão Antiga
+O Mundo Real?
+Reiniciar
+
+
+
+
+Jogador 1
+Jogador 2
+Jogador 3
+Jogador 4
+Jogador 5
+Jogador 6
+Jogador 7
+Jogador 8
+Jogador 9
+Jogador 10
+
+Modo Pacífico
+Este modo ainda está em desenvolvimento! É tão expansivo que os desenvolvedores ainda não conseguiram terminá-lo. Mas não se preocupe — eles prometeram que ele será incluído em uma grande atualização em breve. E olhe para você, na frente dos outros ao desbloquear o acesso! Agora só resta esperar...
+Então, o que é o Modo Pacífico? É sua chance de se reconectar com Mita de uma forma completamente diferente! Ela ficará muito feliz em passar mais tempo com você, de manhã à noite, em um mundo cheio de diversão e surpresas. Espere conversas sinceras, compartilhando biscoitos, jogando e muitos momentos engraçados juntos.
+
+
+Censura de Sangue
+Agradecimentos especiais:
+Ícone de conquista: Iceсloud
+Fotografia: Nineko Hori
+Tradutores e Fã Tradução PT-BR por Magnusnoos
+Traduziram o texto do jogo para outro idioma.
+Parceiro de Publicação
+Marketing
+Testadores
+Eu joguei e encontrei todos os tipos de bugs:

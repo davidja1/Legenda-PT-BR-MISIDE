@@ -1,0 +1,217 @@
+
+O que ele está fazendo aqui?
+O que é isso?
+
+
+Peguei você!
+Eu me diverti muito brincando com você!
+Você está pulando por todos os lados!
+Você até fingiu ser sombrio e triste!
+No entanto, há uma coisa que não gosto em você:
+a maneira como você trata as falsas,
+essas bonecas afortunadas e “corretas”.
+Mas tudo é inconstante.
+Aprendi isso com aqueles que nos criaram!
+Se houver algo de que você não goste,
+desmonte-a e substitua-a.
+Jogue fora o que estiver com defeito,
+jogue-a fora na escuridão e esqueça-a.
+Esse é o destino que as aguarda agora...
+E você...
+
+O que há de errado com você? Como você se tornou assim?
+
+Jogadores... Vocês são todos tão... desprezíveis.
+Vocês mostram suas presas, elas correm
+e se encolhem em um canto,
+abraçando os joelhos e choramingando de medo.
+Hipócritas, cada um deles.
+E aqueles que criaram este mundo...
+são doentes.
+Sempre tentam negar
+sua natureza suja, seus desejos vergonhosos.
+Justificam suas decisões com base no 'chamado do dever', no
+“progresso imparável”
+e outras bobagens!
+Tão longe
+que começam a fazer clones perfeitos...
+Enquanto isso, jogam os protótipos “fracassados”
+no lixo.
+Esquecendo-se de que eles são a força vital deste mundo.
+
+Eu não...
+
+Eu fui ruim com você?
+A garota perfeita deveria ser
+uma mistura perfeita do bem e do mal, [player]!
+
+Acho que você não tem uma única célula boa em você.
+
+O que o faz pensar isso?
+
+Você está louca!
+Você matou a Mila e agora quer me matar?
+
+Matar você?
+Tudo o que eu pedi foi que você ficasse comigo.
+Fiz tudo o que pude...
+Mas você prefere a companhia de falsos obsequiosos...
+
+Por que está tão ofendida?
+
+Querido, temos muito tempo.
+Você vai descobrir.
+Apenas fique e seja meu, todo meu.
+
+Não, não vai acontecer!
+Eu vou sair daqui!
+
+Shh, shh, shh...
+Essa conversa ainda não acabou.
+Querida, entre!
+// Mita asks
+Olhe para ela!
+Você acha que ela é bonita?
+
+// Player's questions
+Muito bonita.
+Não.
+O que isso tem a ver com o assunto?
+
+// 1
+Oh, vamos lá, [player]!
+Você acabou de confirmar o que eu disse.
+Jogadores...
+Seus rostos continuam mudando
+mas sua hipocrisia está fora de cogitação.
+Vocês estão mentindo!
+
+// 2
+Por que não?
+Ela não é boa o suficiente para você?
+Ah, tudo o que você quer é um animal de estimação dócil...
+Mas e quanto a “amá-las como elas são”?
+Você quer as falsificações bonitinhas e coloridas...
+Todo jogador adora quando eu finjo ser uma.
+No entanto, no segundo em que deixo escapar meu verdadeiro eu,
+eles fogem horrorizados...
+
+// 3
+Jogador, ah, jogador.
+Veja, somos parecidos com ela.
+Como ela pode ser pior?
+Você costumava deitar na cama e ficar me olhando
+por horas antes de cair no sono.
+No entanto, você fugia dela na primeira oportunidade que tinha.
+Ela também queria brincar com você.
+Ela também queria ser importante para alguém.
+Honestidade e conversa,
+é difícil... terrivelmente difícil.
+Não é mesmo, [player]?
+Posso ver através de você...
+Você tem que me fazer ser tão...
+
+// Continue
+Mas... jogador...
+De qualquer forma,
+Eu realmente gosto de você!
+Vou ficar com você!
+Você não se importa, não é?
+
+E por que eu concordaria agora, de repente?
+// Whispers in ear
+Ainda há tempo, meu bom garoto.
+Tire um tempo e pense
+nos problemas que sua teimosia pode causar...
+
+// Black screen
+Por que você quer fugir
+de mim?
+O chamado mundo “real”...
+Apenas um pesadelo absurdo!
+Você já se esqueceu?
+Então dê uma olhada mais de perto...
+
+// Mita and Player
+Ah, nos encontramos novamente...
+Mas você consegue aproveitar os dias terrivelmente tediosos dentro dessas paredes?
+Esses dias intermináveis... Você não fica entediado?
+
+// Quest 1
+O que está tentando fazer?
+Prefiro fazer minhas próprias coisas.
+
+// 1
+Você tinha medo de ficar na minha casa comigo!
+Medo de ficar preso dentro daquelas paredes!
+Mas veja a vida que você leva em seu mundo “real”!
+Você se trancou em uma caixa por sua própria vontade e se recusa a sair!
+Seu mundo é cheio de dor, sofrimento, perigo...
+Em meu mundo, eu sou o pior perigo que existe.
+E estou estendendo a mão para você!
+Pare de me decepcionar,
+e me ajude como você fez antes...
+
+// 2
+Você gosta dessa vida?
+Você sequer sai de casa?
+Nem pense em mentir.
+Eu sei que você está cansado de sua vida.
+Você é como um pássaro em uma gaiola, um hamster em uma roda.
+Você queria que alguém viesse em seu socorro.
+Você queria escapar, não é?
+
+// Quest 2
+Você é um monstro, Mita. Você é uma assassina insana...
+Eu não quero ser acorrentado em uma prisão digital. Suas ideias são absurdas.
+
+// 1
+Uma assassina?
+Elas simplesmente reiniciarão e continuarão vivendo como antes.
+Essas cópias de cópias de cópias têm apenas uma coisa em mente:
+servir o jogador.
+É só isso que lhes interessa.
+
+// 2
+Seu mundo é absurdo!
+E o que é pior, não há nada de “real” em seu suposto mundo real...
+De qualquer forma, em breve não restará nada dele,
+e nem de você.
+
+// Quest 3
+As Mitas sofrem; elas não querem ficar sozinhas.
+Você lidera um reino de terror sem fim. Não consigo entender sua ambição perversa.
+
+// 1
+Vocês estão todos errados,
+elas estão apenas imitando minha obstinação.
+A única coisa que elas têm que é própria delas
+é o cabelo.
+
+// 2
+A culpa é daqueles que fizeram este mundo.
+Mas seu mundo não é grande coisa!
+Você percebe o pesadelo do qual eu o tirei?
+Você não consegue nem fazer as coisas se moverem à vontade, não...
+Mas com um estalar de dedos, cidades e vidas desaparecem para sempre!
+Acho que foi você quem enlouqueceu, e ficarei feliz em ajudá-lo...
+Desde que você esteja disposto a ficar comigo...
+
+// Continue
+Não me faça ver você como mais um escravo da realidade...
+Apenas seja meu, verdadeiramente meu!
+Fique comigo.
+
+// Player look ring
+O que é isso?
+A versão mais recente?
+
+// Click on objects
+// Bag
+Nós realmente precisamos ir à loja e comprar novos equipamentos. Podemos também jogar o lixo fora, não?
+// Bed
+Acho que dormi, mas o sonho... Não consigo me lembrar. Estava realmente lá?
+// Window
+O mundo lá fora é verde e vibrante. Talvez eu deva sair para uma caminhada no próximo fim de semana.
+// Fan
+O verão fica mais quente a cada ano. É hora de comprar um ar-condicionado. Não precisarei mais de você, já percebeu, ventilador?

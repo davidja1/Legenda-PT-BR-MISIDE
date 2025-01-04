@@ -1,0 +1,16 @@
+// Quest none
+Deixa pra lá.
+// Quest "First Mita"
+Você é a Mita?
+E se eu quiser voltar?
+Como é que eu entrei no jogo?
+// Quest "First Mita"
+A sua casa é acolhedora.
+Quando é que posso ir para casa?
+Isto parece um sonho...
+Porque é que as janelas são só luz branca?
+Por que usar uma tesoura quando podíamos ter usado uma faca?
+Bon appétit!
+// TV
+Suco legal!
+SUCO forte!!!

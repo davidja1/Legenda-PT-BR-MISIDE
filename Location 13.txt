@@ -1,0 +1,14 @@
+// Quest none
+Deixa pra lá.
+// Quest “First”
+Onde você esteve?
+Como você chegou aqui?
+Quem era aquela Mita agora há pouco?
+Como funciona o anel?
+Por que a Mita Doida precisa de mim?
+Esse é o Núcleo?
+// Quest “Second”
+Qual é o problema?
+Há alguma maneira de identificá-la?
+E se atacarmos a Mita Doida?
+Mini pessoas

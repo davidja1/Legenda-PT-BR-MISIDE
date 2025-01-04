@@ -1,0 +1,246 @@
+
+Espere, espere um pouco!
+Não tão alto...
+Ir além é perigoso.
+A PROPÓSITO...
+como você chegou aqui?
+
+Hum...
+O anel abre as portas certas.
+Sinceramente, não sei como ele funciona.
+
+O anel?
+
+O que há de errado com este lugar?
+É super escuro.
+
+Eu lhe contarei mais tarde.
+Por enquanto, vá em direção à saída.
+Encontre-me na máquina de fliperama.
+
+
+
+Apresse-se, não se atrase!
+
+
+// After mini-game
+Então, entendeu o objetivo do jogo?
+
+Que eu sou feito de carne e osso e você é feito de um modelo de esqueleto?
+
+Uau!
+Parece assustador quando você diz assim.
+Mas essa é a essência do jogo.
+
+Certo, mas por que eu preciso entender isso?
+
+Acho que eu estava lhe dizendo que ir além
+era perigoso, só para me divertir?
+Você vai se deparar com... modelos abandonados...
+As que desistiram, as “defeituosas”.
+Elas são agressivas e podem até tentar matar você.
+
+Então, o que devo fazer?
+Eu simplesmente vou
+para onde quer que uma porta se abra.
+
+Uau!
+Então não dê as costas para elas.
+E não as perca de vista!
+Elas ficam tímidas quando você fica olhando para elas,
+tão tímidas que ficam paralisadas.
+Tenha isso em mente!
+
+
+
+
+
+
+
+// Quest 1 (Why are there other Mitas down there?)
+Elas foram feitas recentemente.
+Precisam de tempo
+para ganhar consciência de si mesmas.
+Então eu guio cada uma delas
+para sua própria casa.
+
+// Quest 2 (Why is it so dark downstairs?)
+Nós, Mitas, somos “criadas” no escuro,
+por isso precisamos ficar lá por um tempo.
+Imagine
+a dor de sair da escuridão direto para a luz...
+
+// Quest 3 What are you doing here?)
+Ainda não entendeu?
+Estou ajudando as novas Mitas a se estabelecerem!
+Quem as ajudará se eu não o fizer?
+Você?
+
+// Quest 4 (Why do we need this conveyor?)
+Para que serve essa esteira transportadora?
+Há espaço suficiente para todas?
+
+Espere, não me diga que você não
+entende como o mundo funciona...
+E que ele é infinito?
+
+infinito?
+Uhm...
+O que você quer dizer com isso?
+Se a versão 1.9 é a mais recente,
+então há apenas 19 mundos.
+
+Meu Deus, você realmente não
+entende como esse mundo funciona.
+Veja, vou usar este quadro negro
+para explicar tudo.
+Quer saber mais sobre isso?
+
+// Quest 5 (What is your version?)
+Espere,
+eu não a conheci na versão mais recente?
+Ou talvez seja apenas minha imaginação.
+
+Bem, é bem possível.
+Eu sou da versão 1.5.
+Você já esteve nela?
+
+Sim, já.
+Foi lá que cheguei
+quando fui jogado neste mundo!
+
+Uau!
+Mas como...?
+Mas em que índice da casa você está?
+Há uma “eu” que não consegue parar de reclamar,
+uma “eu” que adora brincar,
+uma “eu” com memória ruim e que gosta de intimidar os outros...
+É uma longa lista...
+Diga-me do que você se lembra.
+
+Estava escuro.
+Havia escrito
+tipo...
+“Brinque comigo.”
+
+Ah,
+que chatice...
+Essa é a 'eu'
+que intimida e esquece as coisas.
+
+// Mita wants to tell you [No]
+Obrigado, mas não obrigado.
+Estou bem sem saber mais.
+
+Tudo bem, fique à vontade.
+
+// Mita wants to tell you [Yes].
+Claro, vá em frente.
+Só espero que isso não seja como no ensino médio
+onde eu sempre caía no sono por tédio.
+
+Você pode sair a qualquer momento,
+ou ficar e ouvir
+se estiver interessado.
+Um jogador baixa o MiSide
+e joga o quanto quiser.
+Lá, ele cria um novo lar
+e uma nova Mita.
+Esta é uma representação 2D.
+Estas são as versões,
+mostradas como linhas.
+As casas são colocadas sobre essas linhas.
+Digamos que você baixe a versão 1.14,
+que significa uma nova vida,
+uma nova Mita e uma nova casa.
+
+Céus...
+
+Você pode perguntar sobre os detalhes
+neste desenho,
+e eu farei o meu melhor para explicar.
+
+// He asks about the only circle
+Por que há um único círculo?
+
+Essa versão foi lançada apenas uma vez,
+para nunca mais ser repetida.
+É a única versão genuinamente única.
+Além disso, essas versões são especiais
+e não têm nenhum caminho para outras versões.
+A Mita Dorminhoca reside nessa versão, a 1.1.
+
+Mita Dorminhoca?
+Porque ela nunca consegue dormir
+com todos passando por sua versão?
+
+Não, não é isso.
+Você pode passar por ela e fazer barulho,
+mas é impossível acordá-la.
+
+// He asks about the shaded circle
+Por que esse circulo está todo escuro?
+
+Uhm, esse está aqui
+por causa da Mita Linda.
+Ela o desenhou.
+Estávamos discutindo sobre
+quem conseguiria chegar à versão 1.11 mais rápido.
+
+Então, quem ganhou?
+
+Eu, é claro!
+Veja, estamos aqui
+na versão 1.15,
+índice da casa 809.
+Precisamos chegar à versão 1.11,
+índice da casa 805.
+Então, seu caminho começou assim.
+Tentamos encontrar uma rota mais curta,
+então a Mita Linda sugeriu esse caminho.
+E então eu desenhei o mais simples, aqui.
+Fácil, não é?
+Basta olhar aqui.
+A partir daqui, você pode chegar diretamente à versão correta.
+Embora possa parecer que esta casa está no caminho,
+que ela bloqueia seu caminho...
+De qualquer forma, seu anel funciona com base nos mesmos princípios.
+Para onde você está indo?
+
+Para o Núcleo.
+
+O Núcleo?
+Hmm...
+Se você quiser o caminho mais curto,
+você precisará passar pela versão 1.11 também.
+Com certeza você encontrará a Mita Dorminhoca lá.
+Acho que a Mita que enviou você,
+seguiu o mesmo caminho.
+Ou talvez ela não tenha percebido que você está em um caminho diferente.
+Ou talvez ela seja uma gênia
+e tenha inventado uma rota ainda mais curta!
+
+Acho que vou entender.
+
+// He asks about the inscription
+Do que se trata?
+
+É para a Mita Legal.
+Ela estará aqui em algumas horas.
+Ela vai mover essas caixas
+e colocar um sofá aqui.
+Minha bunda está doendo!
+
+É...
+Talvez eu possa ajudar?
+
+Não, isso é trabalho da Mita Legal.
+Ela é durona.
+
+// He asks about the drawings
+Isso é apenas um desenho,
+ou
+significa alguma coisa?
+
+Sim,
+é só um rabisco.

@@ -1,0 +1,19 @@
+// Track names
+Crocante
+Bebida com bolhas
+Balão
+// Quest none
+Deixa pra lá.
+// Quest "Meeting Kind Mita"
+Devo confiar em você?
+Como é que eu cheguei aqui?
+Que lugar é esse?
+Como é que você chegou aqui?
+O que você fez com o anel?
+As passagens são perigosas?
+Você irá me ajudar a escapar?
+Você mencionou um plano.
+// Quest MitaCap
+Te lembra de alguma coisa?
+O que acha da Mita portadora do anel?
+Usa sempre esse chapéu?

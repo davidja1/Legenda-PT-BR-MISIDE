@@ -1,0 +1,400 @@
+Mita?
+Ah, já está acordado?
+Como você chegou aqui?
+Você estava ao meu lado agora mesmo.
+
+Não, não estava.
+Você congelou diante do espelho.
+Então eu saí.
+Por que os quartos mudaram?
+
+Eu reorganizei o lugar
+para que você se sentisse mais em casa.
+Aqui dentro,
+podemos mudar os cômodos
+como quisermos.
+
+Você não precisava fazer isso.
+Eu estava me acostumando com o layout.
+De qualquer forma, acho que você se sentirá mais à vontade com esse layout.
+// Mita card game
+Certo,
+vamos jogar?
+O jogo funciona da seguinte forma:
+Essa ficha indica um tipo de status,
+como Pontos:
+Cada um de nós joga uma carta,
+e se a sua carta tiver
+Pontos a mais
+do que a minha,
+você vence.
+Pegue suas cartas.
+É a minha vez.
+Uau!
+Tenho uma mão e tanto!
+Eu vou primeiro!
+
+
+
+
+
+
+
+
+
+OK!
+Sua vez!
+Uh-huh.
+Sua vez!
+
+O status de saúde mais alto vence!
+É tudo uma questão de ataque!
+Concentre-se apenas na defesa!
+
+
+Você venceu!
+Você venceu!
+Você me pegou.
+Ah, você...
+
+Eu ganhei!
+Eu venci!
+Eu ganhei!
+Hah, peguei você!
+
+Isso é um empate.
+Todos iguais!
+Agora isso é um empate!
+O mesmo valor...
+
+
+
+
+
+
+
+
+
+
+
+// The card game is interrupted
+Que som é esse?
+Está vindo do guarda-roupa.
+
+Som?
+Que som?
+Eu não ouvi nada.
+O que você achou que ouviu?
+
+Batidas, como se alguém estivesse lá dentro.
+
+Mas...
+Não há ninguém lá...
+
+Eu gostaria de abrir e checar.
+Estou um pouco assustado.
+
+Mas por que...?
+Isso de novo...
+
+
+
+
+
+
+
+O que está acontecendo com você!?
+É um guarda-roupa...
+Tenho minhas roupas íntimas lá...!
+
+Está escondendo algo de mim?
+
+Por que você não acredita em mim?
+O que estou fazendo de errado?
+O que eu quero...
+tudo o que eu quero é que você fique comigo.
+
+Eu também gostaria disso, mas mesmo assim...?
+
+Por que você está tão focado nesse guarda-roupa?
+
+Quero saber o que era aquela batida!
+
+Será que é porque
+este mundo
+só tem esses quatro cômodos?
+Isso não é suficiente para você?
+Por que você não pode simplesmente ficar comigo?
+
+
+// Don't stay with Mita
+Já entendi.
+Isso de novo...
+Se quiser dar uma olhada no guarda-roupa,
+então faça isso,
+e descubra o que tem lá dentro!
+
+
+
+
+Mas que...
+
+Isso acontece às vezes.
+A sala ficou presa no carregamento.
+Aguarde um segundo.
+
+Isso é muito estranho.
+Estamos dentro do celular de alguém?
+Talvez um telefone lento com longos tempos de carregamento?
+
+Não, de jeito nenhum.
+Mas nem tudo é perfeito
+neste mundo...
+Estamos sendo carregados
+junto com o núcleo do mundo.
+
+O núcleo do mundo?
+
+Típico, você não acha?
+
+
+
+De qualquer forma, podemos
+jogar um jogo de console
+ou apenas cartas.
+Você escolhe.
+
+
+
+// Mita play fight
+Quer lutar?
+Você precisa vencer
+quatro vezes.
+Vamos lá.
+Não se preocupe, eu vou
+pegar leve com você no início.
+
+
+Isso é um bom menino.
+É melhor você se concentrar!
+
+Uau!
+Certo, tudo bem.
+Vou levar a sério.
+
+Uau!
+Vamos ver se você consegue
+me vencer agora!
+
+Você é
+simplesmente
+incrível! Isso é que é habilidade!
+
+
+Qual é o problema?
+Huh, isso é chato.
+
+Bom,
+é isso aí. Você acredita em destino?
+
+Então,
+então, faça sua parte ou será um perdedor para sempre!
+
+Qual é o problema com você hoje?
+Eu não passei do chão com você.
+Você não deu tudo de si.
+Foi por isso que eu ganhei!
+
+
+Tudo bem, então.
+Que tal jogarmos cartas?
+Elas estão no quarto.
+
+
+
+// Door > [ERROR]
+O que está acontecendo?
+Onde está...
+
+Uh-oh.
+Desculpe...
+Eu baixei algo
+da Internet.
+Eu queria melhorar
+o exterior um pouco.
+Mas acontece que
+havia algo errado com o arquivo.
+Vou consertá-lo mais tarde.
+
+É por isso que não podemos sair de casa?
+Sim, é por isso.
+// Mita shy
+Ei...
+O que há de errado com você?
+Você quer alguma coisa?
+
+
+
+// Wall Clock
+Este relógio aqui,
+que horas ele mostra?
+A hora atual no jogo?
+Ou ele está sincronizado com meu telefone?
+
+Bem, uhm...
+Sinceramente, não sei.
+Mas o horário não importa aqui...
+Seja tarde ou cedo,
+uma garota forte como eu
+está sempre cheia de energia.
+Nunca me canso!
+Podemos ter uma primavera eterna,
+ou uma tarde interminável!
+
+Isso é interessante...
+mas também um pouco assustador.
+Presos no mesmo momento, para sempre...
+
+
+
+// Photos of Mita
+Belas fotos.
+Suponho que essas sejam suas?
+
+Sim.
+Eu também gosto delas.
+
+Quem as tirou?
+Há outros neste mundo também?
+
+Você poderia dizer isso.
+Vou apresentá-los eventualmente.
+Mas ainda não.
+Por enquanto, só quero ficar com você.
+
+
+
+
+// Portal
+Para onde foi o portal?
+Ou seja lá como você o chamou?
+
+Eu usei um
+um pouco de magia
+e o movi
+para outro lugar.
+Não precisamos mais dele.
+Só atrapalhava.
+
+
+// Mirror in the bedroom
+Olhar-se em um espelho sem
+ver um reflexo - é assustador.
+
+Podemos ativar os reflexos
+se você realmente quiser.
+Mas será que realmente precisamos deles?
+
+É claro que sim.
+Ou... ativá-los terá consequências?
+
+Sim.
+Gaguejaremos e nos moveremos mais lentamente.
+Já viu um desenho animado com poucos quadros por segundo?
+Será assim para nós, o tempo todo.
+
+Entendi.
+Então, talvez seja melhor mantermos os reflexos desativados...
+
+Ei, [player],
+você gosta mesmo de espelhos, não é?
+Tem medo de ver um sorriso em seu rosto?
+
+Não? Na verdade, não...
+Só estou cansado
+depois de todo o trabalho.
+
+
+
+// Blue sneakers
+São seus?
+
+Não, são seus.
+Você não se lembra?
+
+Não me lembro de ter um tênis como esse.
+
+Agora você tem.
+Você pode usá-los
+quando formos para a rua.
+
+E quanto às roupas?
+Tudo o que tenho neste mundo
+são as roupas que estou usando.
+Há alguma maneira de eu conseguir roupas novas?
+
+Claro que sim.
+No entanto, já vi o que você veste...
+e, sinceramente, seu gosto não é muito bom.
+De qualquer forma, eu o ajudarei a comprar algumas.
+Mas não agora.
+É uma promessa.
+
+Certo.
+
+
+// Games on TV
+O que você quer jogar?
+// Game milk
+Este é um jogo de luta!
+Vamos ver quem derrete primeiro!
+Que jogo!
+Já tomamos bastante leite por enquanto, vamos fazer outra coisa.
+// Game penguins
+Nesse jogo, você é um pinguim
+deslizando por aí.
+Certo, esse é o jogo.
+
+// Stay with Mita
+O quê?
+Está falando sério? Achei que você estava...
+Estou muito feliz!
+E um pouco confusa...
+Mas...
+Por favor, fique comigo.
+sempre e para sempre.
+
+
+
+
+
+
+
+
+
+
+
+
+// A game about penguins
+É super simples:
+basta coletar bolas de neve.
+Quem coletar mais, ganha!
+Vamos jogar duas rodadas, ok?!
+// The first map
+Uau, como você conseguiu tantas?
+Tee-hee! Eu tenho a maior quantidade de bolas de neve!
+É melhor me alcançar!
+Ha, 1:1!
+// The second map
+Você é um pinguim natural!
+Deveríamos colocá-lo no gelo de verdade!
+Pfft, você é tão lento.
+Ainda está pensando na última rodada?
+Uau, um empate! Isso sim é raro!
+// The game is over
+Certo, quer jogar outra coisa?
+Ou você já terminou?
+
+// Tetris - Mita
+Para que você precisa disso?
+É tão gamer assim?

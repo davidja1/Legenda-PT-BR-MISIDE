@@ -1,0 +1,161 @@
+// Player thinks + Make coffee
+Vou precisar da ajuda de alguém aqui.
+Espero que a Mita aqui não morda...
+
+Por que estou perdendo meu tempo...
+
+
+
+
+// Player tries to wake up MitaDreamer
+Mita?
+Mita, acorde!
+Mita!
+
+Mita, acorde!
+Preciso de sua ajuda.
+
+Quem é você?
+
+Ajude-me com os interruptores.
+
+Que interruptores?
+Me deixe dormir...
+Ou me traga um café.
+
+A cafeteira está logo ali.
+Mita?
+Mi-ita!
+
+
+
+// Player gives away the coffee
+Mita,
+aqui está seu café.
+
+
+
+// MitaDreamer exercise
+Interruptores,
+você disse?
+
+Sim.
+
+Como é que você sabe sobre eles?
+Mas por que estou perguntando...
+Considerando que você está aqui,
+você já deve saber bastante...
+
+Só um minuto,
+preciso me sentar.
+
+E?
+
+Não sei o que dizer...
+Mas preciso continuar,
+continuar seguindo a orientação do anel.
+
+Você tem o anel dela?
+Não é de se admirar que
+que você tenha encontrado este lugar.
+
+É isso mesmo.
+Então, você pode me ajudar?
+Com os interruptores?
+
+Com certeza.
+Eu ajudo.
+Com os interruptores...
+
+
+Mita, vamos lá...
+Vamos logo.
+
+Uh?
+Vamos lá.
+Vamos lá.
+
+
+// MitaDreamer fall
+Levante-se.
+Você está com tanto sono assim?
+
+// MitaDreamer again sleep
+Acorde.
+Estamos aqui.
+
+
+// Switches
+Ok,
+estou pronto.
+
+Eu também estou.
+
+Bem.
+Vou começar
+a contagem regressiva.
+E nós vamos puxar os interruptores juntos.
+Está bem?
+
+Mantenha-se acordada, OK!
+Vamos lá.
+
+
+3
+2
+1
+
+// Player lose 1
+Você está dormindo?
+Vamos lá,
+vamos lá de novo...
+
+// Player lose 2
+Mais uma tentativa?
+Vamos lá,
+Estou...
+Estou caindo no sono aqui...
+
+// Player lose 3
+Estou quase caindo no sono...
+
+
+
+Maravilhoso,
+Obrigado, Mita.
+
+Hum-hum.
+
+
+As portas...
+tão...
+lentas...
+
+
+Estou indo para a cama...
+
+// Why kitchen?
+Por que ir para a cozinha?
+Se eu cair no sono no chão frio,
+a culpa é sua.
+
+// Why bathroom?
+Não estou entendendo...
+Com quais interruptores você precisou de ajuda?
+
+// Put button
+Não aconteceu nada?
+Então o que esse botão está fazendo aqui?
+
+// Cofee
+Mais café?
+Ou você vai dormir de novo.
+
+O quê?
+Nãooo...
+Esse café tem um gosto horrível...
+Estou totalmente bem...
+
+// Button
+Mita? O botão não está funcionando... Está me ouvindo?
+Olá?

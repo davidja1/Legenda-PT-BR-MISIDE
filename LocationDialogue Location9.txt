@@ -1,0 +1,87 @@
+
+Ei, você!
+Ei!
+Você quer sair?
+Então me ajude a encontrar a chave!
+// Key Search
+Que merda! A chave sumiu!
+Não há nada aqui.
+zero, zip, nada!
+Encontrei!
+
+// The usual conversation
+Achei que você fosse mais baixo!
+Você é alto...
+igual à minha irmã!
+
+Sua irmã? O que tem ela?
+
+Sim, minha irmã.
+Não diga que você nunca a conheceu!
+
+Uh... eu a conheci... Eu acho?
+
+Você é um tolo?
+
+Erm...
+
+Acontece que você é...
+Vamos, apenas me ajude a encontrar a chave!
+
+// Next work
+Venha.
+Coloque-o no cano!
+Obrigada!
+Agora me traga a madeira!
+Obrigada!
+Mais ajuda, por favor!
+Tudo pronto! Agora...
+Uau, isso é lindo.
+Pressione-o, vamos lá!
+Prepare-se...
+aí, pegue-a!
+A chave é sua!
+
+
+
+
+
+
+
+
+
+// Quest 1 (Are you Mita?)
+Eu sou ChibiMita.fbx!
+Toneladas de linhas,
+modelos mais simples e...
+o melhor de tudo - cabelos lindos!
+
+// Quest 2 (Have we seen each other yet?)
+Cabeça de bobo!
+Você é até bonitinho, sabe,
+fazendo perguntas bobas como essa.
+Mas..,
+esta é a primeira vez que o encontro!
+Mas escute...
+Se você roubar meu visual maravilhoso,
+vou fazer você se arrepender!
+
+// Quest 3 (Why are you here?)
+Não está entendendo?
+Este é um ponto de controle.
+um teste de sua inteligência!
+Agora vamos lá!
+Estou aqui para guiar os irremediavelmente perdidos!
+
+// Quest 4 (Why are you helping me?)
+O que o torna tão especial?
+Por que não ajudá-lo mesmo assim?
+
+O quê?
+
+Tão tolo...
+Você apareceu do nada!
+Não era para você estar aqui,
+portanto, estou ajudando-o!
+
+Tchauzinho, bobão!
